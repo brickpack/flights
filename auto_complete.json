@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "presentation": {
+                "title": "Amsterdam Schiphol",
+                "suggestionTitle": "Amsterdam Schiphol (AMS)",
+                "subtitle": "Netherlands",
+                "id": "eyJlIjoiOTU1NjUwNDQiLCJzIjoiQU1TIiwiaCI6IjI3NTM2NTYxIiwidCI6IkFJUlBPUlQifQ==",
+                "skyId": "AMS"
+            },
+            "navigation": {
+                "entityId": "95565044",
+                "entityType": "AIRPORT",
+                "localizedName": "Amsterdam Schiphol",
+                "relevantFlightParams": {
+                    "skyId": "AMS",
+                    "entityId": "95565044",
+                    "flightPlaceType": "AIRPORT",
+                    "localizedName": "Amsterdam Schiphol"
+                },
+                "relevantHotelParams": {
+                    "entityId": "27536561",
+                    "entityType": "CITY",
+                    "localizedName": "Amsterdam"
+                }
+            }
+        }
+    ],
+    "status": true,
+    "message": "Successful"
+}

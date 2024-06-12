@@ -1,0 +1,2121 @@
+{
+    "data": [
+        {
+            "country": "Andorra",
+            "market": "AD",
+            "locale": "es-ES",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "UnitedArabEmirates",
+            "market": "AE",
+            "locale": "en-US",
+            "currencyTitle": "UnitedArabEmiratesDirham",
+            "currency": "AED",
+            "currencySymbol": "AED",
+            "site": "www.skyscanner.ae"
+        },
+        {
+            "country": "Afghanistan",
+            "market": "AF",
+            "locale": "en-GB",
+            "currencyTitle": "AfghanAfghani",
+            "currency": "AFN",
+            "currencySymbol": "AFN",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "AntiguaandBarbuda",
+            "market": "AG",
+            "locale": "en-GB",
+            "currencyTitle": "EastCaribbeanDollar",
+            "currency": "XCD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Anguilla",
+            "market": "AI",
+            "locale": "en-GB",
+            "currencyTitle": "EastCaribbeanDollar",
+            "currency": "XCD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Albania",
+            "market": "AL",
+            "locale": "en-GB",
+            "currencyTitle": "AlbanianLek",
+            "currency": "ALL",
+            "currencySymbol": "Lek",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Armenia",
+            "market": "AM",
+            "locale": "ru-RU",
+            "currencyTitle": "ArmenianDram",
+            "currency": "AMD",
+            "currencySymbol": "դր.",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Angola",
+            "market": "AO",
+            "locale": "pt-PT",
+            "currencyTitle": "AngolanKwanza",
+            "currency": "AOA",
+            "currencySymbol": "Kz",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Antarctica",
+            "market": "AQ",
+            "locale": "en-GB",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Argentina",
+            "market": "AR",
+            "locale": "es-MX",
+            "currencyTitle": "ArgentinePeso",
+            "currency": "ARS",
+            "currencySymbol": "$",
+            "site": "www.espanol.skyscanner.com"
+        },
+        {
+            "country": "AmericanSamoa",
+            "market": "AS",
+            "locale": "en-GB",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Austria",
+            "market": "AT",
+            "locale": "de-DE",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.at"
+        },
+        {
+            "country": "Australia",
+            "market": "AU",
+            "locale": "en-GB",
+            "currencyTitle": "AustralianDollar",
+            "currency": "AUD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.com.au"
+        },
+        {
+            "country": "Aruba",
+            "market": "AW",
+            "locale": "en-GB",
+            "currencyTitle": "ArubanFlorin",
+            "currency": "AWG",
+            "currencySymbol": "Afl.",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Azerbaijan",
+            "market": "AZ",
+            "locale": "en-GB",
+            "currencyTitle": "AzerbaijaniManat",
+            "currency": "AZN",
+            "currencySymbol": "₼",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "BosniaandHerzegovina",
+            "market": "BA",
+            "locale": "en-GB",
+            "currencyTitle": "Bosnia-HerzegovinaConvertibleMark",
+            "currency": "BAM",
+            "currencySymbol": "КМ",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Barbados",
+            "market": "BB",
+            "locale": "en-GB",
+            "currencyTitle": "BarbadianDollar",
+            "currency": "BBD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Bangladesh",
+            "market": "BD",
+            "locale": "en-GB",
+            "currencyTitle": "BangladeshiTaka",
+            "currency": "BDT",
+            "currencySymbol": "BDT",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Belgium",
+            "market": "BE",
+            "locale": "nl-NL",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "BurkinaFaso",
+            "market": "BF",
+            "locale": "en-GB",
+            "currencyTitle": "WestAfricanCFAFranc",
+            "currency": "XOF",
+            "currencySymbol": "F",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Bulgaria",
+            "market": "BG",
+            "locale": "bg-BG",
+            "currencyTitle": "BulgarianLev",
+            "currency": "BGN",
+            "currencySymbol": "лв.",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Bahrain",
+            "market": "BH",
+            "locale": "en-GB",
+            "currencyTitle": "BahrainiDinar",
+            "currency": "BHD",
+            "currencySymbol": "د.ب.\u200f",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Burundi",
+            "market": "BI",
+            "locale": "en-GB",
+            "currencyTitle": "BurundianFranc",
+            "currency": "BIF",
+            "currencySymbol": "FBu",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Benin",
+            "market": "BJ",
+            "locale": "en-GB",
+            "currencyTitle": "WestAfricanCFAFranc",
+            "currency": "XOF",
+            "currencySymbol": "F",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "SaintBarthelemy",
+            "market": "BL",
+            "locale": "en-GB",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Bermuda",
+            "market": "BM",
+            "locale": "en-GB",
+            "currencyTitle": "BermudanDollar",
+            "currency": "BMD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.com"
+        },
+        {
+            "country": "Brunei",
+            "market": "BN",
+            "locale": "en-GB",
+            "currencyTitle": "BruneiDollar",
+            "currency": "BND",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Bolivia",
+            "market": "BO",
+            "locale": "es-MX",
+            "currencyTitle": "BolivianBoliviano",
+            "currency": "BOB",
+            "currencySymbol": "Bs",
+            "site": "www.espanol.skyscanner.com"
+        },
+        {
+            "country": "CaribbeanNetherlands",
+            "market": "BQ",
+            "locale": "en-GB",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Brazil",
+            "market": "BR",
+            "locale": "pt-BR",
+            "currencyTitle": "BrazilianReal",
+            "currency": "BRL",
+            "currencySymbol": "R$",
+            "site": "www.skyscanner.com.br"
+        },
+        {
+            "country": "Bahamas",
+            "market": "BS",
+            "locale": "en-GB",
+            "currencyTitle": "BahamianDollar",
+            "currency": "BSD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Bhutan",
+            "market": "BT",
+            "locale": "en-GB",
+            "currencyTitle": "BhutaneseNgultrum",
+            "currency": "BTN",
+            "currencySymbol": "Nu.",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Botswana",
+            "market": "BW",
+            "locale": "en-GB",
+            "currencyTitle": "BotswananPula",
+            "currency": "BWP",
+            "currencySymbol": "P",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Belarus",
+            "market": "BY",
+            "locale": "ru-RU",
+            "currencyTitle": "BelarusianRuble",
+            "currency": "BYN",
+            "currencySymbol": "Br",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Belize",
+            "market": "BZ",
+            "locale": "en-GB",
+            "currencyTitle": "BelizeDollar",
+            "currency": "BZD",
+            "currencySymbol": "BZ$",
+            "site": "www.skyscanner.com"
+        },
+        {
+            "country": "Canada",
+            "market": "CA",
+            "locale": "en-US",
+            "currencyTitle": "CanadianDollar",
+            "currency": "CAD",
+            "currencySymbol": "C$",
+            "site": "www.skyscanner.ca"
+        },
+        {
+            "country": "Cocos(Keeling)Islands",
+            "market": "CC",
+            "locale": "en-GB",
+            "currencyTitle": "AustralianDollar",
+            "currency": "AUD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "DRCongo",
+            "market": "CD",
+            "locale": "en-GB",
+            "currencyTitle": "CongoleseFranc",
+            "currency": "CDF",
+            "currencySymbol": "FC",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "CentralAfricanRepublic",
+            "market": "CF",
+            "locale": "en-GB",
+            "currencyTitle": "CentralAfricanCFAFranc",
+            "currency": "XAF",
+            "currencySymbol": "F",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Congo",
+            "market": "CG",
+            "locale": "en-GB",
+            "currencyTitle": "CentralAfricanCFAFranc",
+            "currency": "XAF",
+            "currencySymbol": "F",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Switzerland",
+            "market": "CH",
+            "locale": "de-DE",
+            "currencyTitle": 2,
+            "currency": "CHF",
+            "currencySymbol": "CHF",
+            "site": "www.skyscanner.ch"
+        },
+        {
+            "country": "IvoryCoast",
+            "market": "CI",
+            "locale": "fr-FR",
+            "currencyTitle": "WestAfricanCFAFranc",
+            "currency": "XOF",
+            "currencySymbol": "F",
+            "site": "www.skyscanner.fr"
+        },
+        {
+            "country": "CookIslands",
+            "market": "CK",
+            "locale": "en-GB",
+            "currencyTitle": "NewZealandDollar",
+            "currency": "NZD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Chile",
+            "market": "CL",
+            "locale": "es-MX",
+            "currencyTitle": "ChileanPeso",
+            "currency": "CLP",
+            "currencySymbol": "$",
+            "site": "www.espanol.skyscanner.com"
+        },
+        {
+            "country": "Cameroon",
+            "market": "CM",
+            "locale": "en-GB",
+            "currencyTitle": "CentralAfricanCFAFranc",
+            "currency": "XAF",
+            "currencySymbol": "F",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "China",
+            "market": "CN",
+            "locale": "zh-CN",
+            "currencyTitle": "ChineseYuan",
+            "currency": "CNY",
+            "currencySymbol": "¥",
+            "site": "www.tianxun.com"
+        },
+        {
+            "country": "Colombia",
+            "market": "CO",
+            "locale": "es-MX",
+            "currencyTitle": "ColombianPeso",
+            "currency": "COP",
+            "currencySymbol": "$",
+            "site": "www.espanol.skyscanner.com"
+        },
+        {
+            "country": "CostaRica",
+            "market": "CR",
+            "locale": "es-MX",
+            "currencyTitle": "CostaRicanColón",
+            "currency": "CRC",
+            "currencySymbol": "₡",
+            "site": "www.espanol.skyscanner.com"
+        },
+        {
+            "country": "Cuba",
+            "market": "CU",
+            "locale": "es-MX",
+            "currencyTitle": "CubanPeso",
+            "currency": "CUP",
+            "currencySymbol": "$MN",
+            "site": "www.espanol.skyscanner.com"
+        },
+        {
+            "country": "CapeVerde",
+            "market": "CV",
+            "locale": "en-GB",
+            "currencyTitle": "CapeVerdeanEscudo",
+            "currency": "CVE",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Curacao",
+            "market": "CW",
+            "locale": "en-GB",
+            "currencyTitle": "NetherlandsAntilleanGuilder",
+            "currency": "ANG",
+            "currencySymbol": "NAf.",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "ChristmasIsland",
+            "market": "CX",
+            "locale": "en-GB",
+            "currencyTitle": "AustralianDollar",
+            "currency": "AUD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Cyprus",
+            "market": "CY",
+            "locale": "el-GR",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "CzechRepublic",
+            "market": "CZ",
+            "locale": "cs-CZ",
+            "currencyTitle": "CzechKoruna",
+            "currency": "CZK",
+            "currencySymbol": "Kč",
+            "site": "www.skyscanner.cz"
+        },
+        {
+            "country": "Germany",
+            "market": "DE",
+            "locale": "de-DE",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.de"
+        },
+        {
+            "country": "Djibouti",
+            "market": "DJ",
+            "locale": "en-GB",
+            "currencyTitle": "DjiboutianFranc",
+            "currency": "DJF",
+            "currencySymbol": "Fdj",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Denmark",
+            "market": "DK",
+            "locale": "da-DK",
+            "currencyTitle": "DanishKrone",
+            "currency": "DKK",
+            "currencySymbol": "kr.",
+            "site": "www.skyscanner.dk"
+        },
+        {
+            "country": "Dominica",
+            "market": "DM",
+            "locale": "en-GB",
+            "currencyTitle": "EastCaribbeanDollar",
+            "currency": "XCD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "DominicanRepublic",
+            "market": "DO",
+            "locale": "es-MX",
+            "currencyTitle": "DominicanPeso",
+            "currency": "DOP",
+            "currencySymbol": "RD$",
+            "site": "www.espanol.skyscanner.com"
+        },
+        {
+            "country": "Algeria",
+            "market": "DZ",
+            "locale": "fr-FR",
+            "currencyTitle": "AlgerianDinar",
+            "currency": "DZD",
+            "currencySymbol": "د.ج.\u200f",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Ecuador",
+            "market": "EC",
+            "locale": "es-MX",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.espanol.skyscanner.com"
+        },
+        {
+            "country": "Estonia",
+            "market": "EE",
+            "locale": "en-GB",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Egypt",
+            "market": "EG",
+            "locale": "en-GB",
+            "currencyTitle": "EgyptianPound",
+            "currency": "EGP",
+            "currencySymbol": "ج.م.\u200f",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Eritrea",
+            "market": "ER",
+            "locale": "en-GB",
+            "currencyTitle": "EritreanNakfa",
+            "currency": "ERN",
+            "currencySymbol": "Nfk",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Spain",
+            "market": "ES",
+            "locale": "es-ES",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.es"
+        },
+        {
+            "country": "Ethiopia",
+            "market": "ET",
+            "locale": "en-GB",
+            "currencyTitle": "EthiopianBirr",
+            "currency": "ETB",
+            "currencySymbol": "Br",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Finland",
+            "market": "FI",
+            "locale": "fi-FI",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.fi"
+        },
+        {
+            "country": "Fiji",
+            "market": "FJ",
+            "locale": "en-GB",
+            "currencyTitle": "FijianDollar",
+            "currency": "FJD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "FalklandIslands",
+            "market": "FK",
+            "locale": "en-GB",
+            "currencyTitle": "BritishPound",
+            "currency": "GBP",
+            "currencySymbol": "£",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Micronesia",
+            "market": "FM",
+            "locale": "en-GB",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "FaroeIslands",
+            "market": "FO",
+            "locale": "en-GB",
+            "currencyTitle": "DanishKrone",
+            "currency": "DKK",
+            "currencySymbol": "kr.",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "France",
+            "market": "FR",
+            "locale": "fr-FR",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.fr"
+        },
+        {
+            "country": "Gabon",
+            "market": "GA",
+            "locale": "en-GB",
+            "currencyTitle": "CentralAfricanCFAFranc",
+            "currency": "XAF",
+            "currencySymbol": "F",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Grenada",
+            "market": "GD",
+            "locale": "en-GB",
+            "currencyTitle": "EastCaribbeanDollar",
+            "currency": "XCD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Georgia",
+            "market": "GE",
+            "locale": "en-GB",
+            "currencyTitle": "GeorgianLari",
+            "currency": "GEL",
+            "currencySymbol": "₾",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "FrenchGuiana",
+            "market": "GF",
+            "locale": "fr-FR",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.fr"
+        },
+        {
+            "country": "Guernsey",
+            "market": "GG",
+            "locale": "en-GB",
+            "currencyTitle": "BritishPound",
+            "currency": "GBP",
+            "currencySymbol": "£",
+            "site": "www.skyscanner.gg"
+        },
+        {
+            "country": "Ghana",
+            "market": "GH",
+            "locale": "en-GB",
+            "currencyTitle": "GhanaianCedi",
+            "currency": "GHS",
+            "currencySymbol": "GH¢",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Gibraltar",
+            "market": "GI",
+            "locale": "en-GB",
+            "currencyTitle": "GibraltarPound",
+            "currency": "GIP",
+            "currencySymbol": "£",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Greenland",
+            "market": "GL",
+            "locale": "en-GB",
+            "currencyTitle": "DanishKrone",
+            "currency": "DKK",
+            "currencySymbol": "kr.",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Gambia",
+            "market": "GM",
+            "locale": "en-GB",
+            "currencyTitle": "GambianDalasi",
+            "currency": "GMD",
+            "currencySymbol": "D",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Guinea",
+            "market": "GN",
+            "locale": "en-GB",
+            "currencyTitle": "GuineanFranc",
+            "currency": "GNF",
+            "currencySymbol": "FG",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Guadeloupe",
+            "market": "GP",
+            "locale": "fr-FR",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.fr"
+        },
+        {
+            "country": "EquatorialGuinea",
+            "market": "GQ",
+            "locale": "en-GB",
+            "currencyTitle": "CentralAfricanCFAFranc",
+            "currency": "XAF",
+            "currencySymbol": "F",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Greece",
+            "market": "GR",
+            "locale": "el-GR",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "gr.skyscanner.com"
+        },
+        {
+            "country": "SouthGeorgia&SouthSandwichIslands",
+            "market": "GS",
+            "locale": "en-GB",
+            "currencyTitle": "BritishPound",
+            "currency": "GBP",
+            "currencySymbol": "£",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Guatemala",
+            "market": "GT",
+            "locale": "es-MX",
+            "currencyTitle": "GuatemalanQuetzal",
+            "currency": "GTQ",
+            "currencySymbol": "Q",
+            "site": "www.espanol.skyscanner.com"
+        },
+        {
+            "country": "Guam",
+            "market": "GU",
+            "locale": "en-GB",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Guinea-Bissau",
+            "market": "GW",
+            "locale": "en-GB",
+            "currencyTitle": "GuineanFranc",
+            "currency": "GNF",
+            "currencySymbol": "FG",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Guyana",
+            "market": "GY",
+            "locale": "en-GB",
+            "currencyTitle": "GuyanaeseDollar",
+            "currency": "GYD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.com"
+        },
+        {
+            "country": "HongKong",
+            "market": "HK",
+            "locale": "zh-TW",
+            "currencyTitle": "HongKongDollar",
+            "currency": "HKD",
+            "currencySymbol": "HK$",
+            "site": "www.skyscanner.com.hk"
+        },
+        {
+            "country": "Honduras",
+            "market": "HN",
+            "locale": "es-MX",
+            "currencyTitle": "HonduranLempira",
+            "currency": "HNL",
+            "currencySymbol": "L.",
+            "site": "www.espanol.skyscanner.com"
+        },
+        {
+            "country": "Croatia",
+            "market": "HR",
+            "locale": "en-GB",
+            "currencyTitle": "CroatianKuna",
+            "currency": "HRK",
+            "currencySymbol": "kn",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Haiti",
+            "market": "HT",
+            "locale": "en-GB",
+            "currencyTitle": "HaitianGourde",
+            "currency": "HTG",
+            "currencySymbol": "G",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Hungary",
+            "market": "HU",
+            "locale": "hu-HU",
+            "currencyTitle": "HungarianForint",
+            "currency": "HUF",
+            "currencySymbol": "Ft",
+            "site": "www.skyscanner.hu"
+        },
+        {
+            "country": "Indonesia",
+            "market": "ID",
+            "locale": "id-ID",
+            "currencyTitle": "IndonesianRupiah",
+            "currency": "IDR",
+            "currencySymbol": "Rp",
+            "site": "www.skyscanner.co.id"
+        },
+        {
+            "country": "Ireland",
+            "market": "IE",
+            "locale": "en-GB",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.ie"
+        },
+        {
+            "country": "Israel",
+            "market": "IL",
+            "locale": "en-US",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.co.il"
+        },
+        {
+            "country": "India",
+            "market": "IN",
+            "locale": "en-GB",
+            "currencyTitle": "IndianRupee",
+            "currency": "INR",
+            "currencySymbol": "₹",
+            "site": "www.skyscanner.co.in"
+        },
+        {
+            "country": "Iraq",
+            "market": "IQ",
+            "locale": "en-GB",
+            "currencyTitle": "IraqiDinar",
+            "currency": "IQD",
+            "currencySymbol": "د.ع.\u200f",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Iran",
+            "market": "IR",
+            "locale": "en-GB",
+            "currencyTitle": "IranianRial",
+            "currency": "IRR",
+            "currencySymbol": "ريال",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Iceland",
+            "market": "IS",
+            "locale": "en-GB",
+            "currencyTitle": "IcelandicKróna",
+            "currency": "ISK",
+            "currencySymbol": "kr.",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Italy",
+            "market": "IT",
+            "locale": "it-IT",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.it"
+        },
+        {
+            "country": "Jamaica",
+            "market": "JM",
+            "locale": "en-GB",
+            "currencyTitle": "JamaicanDollar",
+            "currency": "JMD",
+            "currencySymbol": "J$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Jordan",
+            "market": "JO",
+            "locale": "en-GB",
+            "currencyTitle": "JordanianDinar",
+            "currency": "JOD",
+            "currencySymbol": "د.ا.\u200f",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Japan",
+            "market": "JP",
+            "locale": "ja-JP",
+            "currencyTitle": "JapaneseYen",
+            "currency": "JPY",
+            "currencySymbol": "¥",
+            "site": "www.skyscanner.jp"
+        },
+        {
+            "country": "Kenya",
+            "market": "KE",
+            "locale": "en-GB",
+            "currencyTitle": "KenyanShilling",
+            "currency": "KES",
+            "currencySymbol": "S",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Kyrgyzstan",
+            "market": "KG",
+            "locale": "ru-RU",
+            "currencyTitle": 2,
+            "currency": "KGS",
+            "currencySymbol": "сом",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Cambodia",
+            "market": "KH",
+            "locale": "en-GB",
+            "currencyTitle": "CambodianRiel",
+            "currency": "KHR",
+            "currencySymbol": "KHR",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Kiribati",
+            "market": "KI",
+            "locale": "en-GB",
+            "currencyTitle": "AustralianDollar",
+            "currency": "AUD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Comoros",
+            "market": "KM",
+            "locale": "en-GB",
+            "currencyTitle": "ComorianFranc",
+            "currency": "KMF",
+            "currencySymbol": "CF",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "SaintKittsandNevis",
+            "market": "KN",
+            "locale": "en-GB",
+            "currencyTitle": "EastCaribbeanDollar",
+            "currency": "XCD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Kosovo",
+            "market": "KO",
+            "locale": "en-GB",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "NorthKorea",
+            "market": "KP",
+            "locale": "en-GB",
+            "currencyTitle": "NorthKoreanWon",
+            "currency": "KPW",
+            "currencySymbol": "₩",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "SouthKorea",
+            "market": "KR",
+            "locale": "ko-KR",
+            "currencyTitle": "SouthKoreanWon",
+            "currency": "KRW",
+            "currencySymbol": "₩",
+            "site": "www.skyscanner.co.kr"
+        },
+        {
+            "country": "Kuwait",
+            "market": "KW",
+            "locale": "en-GB",
+            "currencyTitle": "KuwaitiDinar",
+            "currency": "KWD",
+            "currencySymbol": "د.ك.\u200f",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "CaymanIslands",
+            "market": "KY",
+            "locale": "en-GB",
+            "currencyTitle": "CaymanIslandsDollar",
+            "currency": "KYD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Kazakhstan",
+            "market": "KZ",
+            "locale": "ru-RU",
+            "currencyTitle": 2,
+            "currency": "KZT",
+            "currencySymbol": "Т",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Laos",
+            "market": "LA",
+            "locale": "en-GB",
+            "currencyTitle": "LaotianKip",
+            "currency": "LAK",
+            "currencySymbol": "₭",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Lebanon",
+            "market": "LB",
+            "locale": "en-GB",
+            "currencyTitle": "LebanesePound",
+            "currency": "LBP",
+            "currencySymbol": "ل.ل.\u200f",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "SaintLucia",
+            "market": "LC",
+            "locale": "en-GB",
+            "currencyTitle": "EastCaribbeanDollar",
+            "currency": "XCD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Liechtenstein",
+            "market": "LI",
+            "locale": "de-DE",
+            "currencyTitle": 2,
+            "currency": "CHF",
+            "currencySymbol": "CHF",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "SriLanka",
+            "market": "LK",
+            "locale": "en-GB",
+            "currencyTitle": "SriLankanRupee",
+            "currency": "LKR",
+            "currencySymbol": "Rp",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Liberia",
+            "market": "LR",
+            "locale": "en-GB",
+            "currencyTitle": "LiberianDollar",
+            "currency": "LRD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Lesotho",
+            "market": "LS",
+            "locale": "en-GB",
+            "currencyTitle": "LesothoLoti",
+            "currency": "LSL",
+            "currencySymbol": "M",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Lithuania",
+            "market": "LT",
+            "locale": "en-GB",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Luxembourg",
+            "market": "LU",
+            "locale": "en-GB",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Latvia",
+            "market": "LV",
+            "locale": "en-GB",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Libya",
+            "market": "LY",
+            "locale": "en-GB",
+            "currencyTitle": "LibyanDinar",
+            "currency": "LYD",
+            "currencySymbol": "د.ل.\u200f",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Morocco",
+            "market": "MA",
+            "locale": "fr-FR",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.fr"
+        },
+        {
+            "country": "Monaco",
+            "market": "MC",
+            "locale": "en-GB",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Moldova",
+            "market": "MD",
+            "locale": "en-GB",
+            "currencyTitle": "MoldovanLeu",
+            "currency": "MDL",
+            "currencySymbol": "lei",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Montenegro",
+            "market": "ME",
+            "locale": "en-GB",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Madagascar",
+            "market": "MG",
+            "locale": "en-GB",
+            "currencyTitle": "MalagasyAriary",
+            "currency": "MGA",
+            "currencySymbol": "Ar",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "MarshallIslands",
+            "market": "MH",
+            "locale": "en-GB",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "NorthMacedonia",
+            "market": "MK",
+            "locale": "en-GB",
+            "currencyTitle": "MacedonianDenar",
+            "currency": "MKD",
+            "currencySymbol": "ден.",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Mali",
+            "market": "ML",
+            "locale": "en-GB",
+            "currencyTitle": "WestAfricanCFAFranc",
+            "currency": "XOF",
+            "currencySymbol": "F",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Myanmar",
+            "market": "MM",
+            "locale": "en-GB",
+            "currencyTitle": "MyanmarKyat",
+            "currency": "MMK",
+            "currencySymbol": "K",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Mongolia",
+            "market": "MN",
+            "locale": "en-GB",
+            "currencyTitle": "MongolianTugrik",
+            "currency": "MNT",
+            "currencySymbol": "₮",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Macau",
+            "market": "MO",
+            "locale": "zh-TW",
+            "currencyTitle": "MacanesePataca",
+            "currency": "MOP",
+            "currencySymbol": "MOP$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "NorthernMarianaIslands",
+            "market": "MP",
+            "locale": "en-GB",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Martinique",
+            "market": "MQ",
+            "locale": "fr-FR",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.fr"
+        },
+        {
+            "country": "Mauritania",
+            "market": "MR",
+            "locale": "en-GB",
+            "currencyTitle": "MauritanianOuguiya",
+            "currency": "MRO",
+            "currencySymbol": "UM",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Montserrat",
+            "market": "MS",
+            "locale": "en-GB",
+            "currencyTitle": "EastCaribbeanDollar",
+            "currency": "XCD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Malta",
+            "market": "MT",
+            "locale": "en-GB",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Mauritius",
+            "market": "MU",
+            "locale": "en-GB",
+            "currencyTitle": "MauritianRupee",
+            "currency": "MUR",
+            "currencySymbol": "Rs",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Maldives",
+            "market": "MV",
+            "locale": "en-GB",
+            "currencyTitle": "MaldivianRufiyaa",
+            "currency": "MVR",
+            "currencySymbol": "MVR",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Malawi",
+            "market": "MW",
+            "locale": "en-GB",
+            "currencyTitle": "MalawianKwacha",
+            "currency": "MWK",
+            "currencySymbol": "MK",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Mexico",
+            "market": "MX",
+            "locale": "es-MX",
+            "currencyTitle": "MexicanPeso",
+            "currency": "MXN",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.com.mx"
+        },
+        {
+            "country": "Malaysia",
+            "market": "MY",
+            "locale": "en-GB",
+            "currencyTitle": "MalaysianRinggit",
+            "currency": "MYR",
+            "currencySymbol": "RM",
+            "site": "www.skyscanner.com.my"
+        },
+        {
+            "country": "Mozambique",
+            "market": "MZ",
+            "locale": "en-GB",
+            "currencyTitle": "MozambicanMetical",
+            "currency": "MZN",
+            "currencySymbol": "MT",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Namibia",
+            "market": "NA",
+            "locale": "en-GB",
+            "currencyTitle": "NamibianDollar",
+            "currency": "NAD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "NewCaledonia",
+            "market": "NC",
+            "locale": "en-GB",
+            "currencyTitle": "CFPFranc",
+            "currency": "XPF",
+            "currencySymbol": "F",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Niger",
+            "market": "NE",
+            "locale": "en-GB",
+            "currencyTitle": "WestAfricanCFAFranc",
+            "currency": "XOF",
+            "currencySymbol": "F",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Nigeria",
+            "market": "NG",
+            "locale": "en-GB",
+            "currencyTitle": "NigerianNaira",
+            "currency": "NGN",
+            "currencySymbol": "₦",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Nicaragua",
+            "market": "NI",
+            "locale": "es-MX",
+            "currencyTitle": "NicaraguanCórdoba",
+            "currency": "NIO",
+            "currencySymbol": "C$",
+            "site": "www.espanol.skyscanner.com"
+        },
+        {
+            "country": "Netherlands",
+            "market": "NL",
+            "locale": "nl-NL",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.nl"
+        },
+        {
+            "country": "Norway",
+            "market": "NO",
+            "locale": "nb-NO",
+            "currencyTitle": "NorwegianKrone",
+            "currency": "NOK",
+            "currencySymbol": "kr",
+            "site": "www.skyscanner.no"
+        },
+        {
+            "country": "Nepal",
+            "market": "NP",
+            "locale": "en-GB",
+            "currencyTitle": "NepaleseRupee",
+            "currency": "NPR",
+            "currencySymbol": "रु",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Nauru",
+            "market": "NR",
+            "locale": "en-GB",
+            "currencyTitle": "AustralianDollar",
+            "currency": "AUD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Niue",
+            "market": "NU",
+            "locale": "en-GB",
+            "currencyTitle": "NewZealandDollar",
+            "currency": "NZD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "NewZealand",
+            "market": "NZ",
+            "locale": "en-GB",
+            "currencyTitle": "NewZealandDollar",
+            "currency": "NZD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.co.nz"
+        },
+        {
+            "country": "Oman",
+            "market": "OM",
+            "locale": "en-GB",
+            "currencyTitle": "OmaniRial",
+            "currency": "OMR",
+            "currencySymbol": "ر.ع.\u200f",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Panama",
+            "market": "PA",
+            "locale": "es-MX",
+            "currencyTitle": "PanamanianBalboa",
+            "currency": "PAB",
+            "currencySymbol": "B/.",
+            "site": "www.espanol.skyscanner.com"
+        },
+        {
+            "country": "Peru",
+            "market": "PE",
+            "locale": "es-MX",
+            "currencyTitle": 2,
+            "currency": "PEN",
+            "currencySymbol": "S/.",
+            "site": "www.espanol.skyscanner.com"
+        },
+        {
+            "country": "FrenchPolynesia",
+            "market": "PF",
+            "locale": "fr-FR",
+            "currencyTitle": "CFPFranc",
+            "currency": "XPF",
+            "currencySymbol": "F",
+            "site": "www.skyscanner.fr"
+        },
+        {
+            "country": "PapuaNewGuinea",
+            "market": "PG",
+            "locale": "en-GB",
+            "currencyTitle": "PapuaNewGuineanKina",
+            "currency": "PGK",
+            "currencySymbol": "K",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Philippines",
+            "market": "PH",
+            "locale": "en-GB",
+            "currencyTitle": "PhilippinePiso",
+            "currency": "PHP",
+            "currencySymbol": "P",
+            "site": "www.skyscanner.com.ph"
+        },
+        {
+            "country": "Pakistan",
+            "market": "PK",
+            "locale": "en-GB",
+            "currencyTitle": "PakistaniRupee",
+            "currency": "PKR",
+            "currencySymbol": "Rs",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Poland",
+            "market": "PL",
+            "locale": "pl-PL",
+            "currencyTitle": "PolishZloty",
+            "currency": "PLN",
+            "currencySymbol": "zł",
+            "site": "www.skyscanner.pl"
+        },
+        {
+            "country": "St.PierreandMiquelon",
+            "market": "PM",
+            "locale": "en-GB",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "PuertoRico",
+            "market": "PR",
+            "locale": "es-MX",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.espanol.skyscanner.com"
+        },
+        {
+            "country": "PalestinianTerritories",
+            "market": "PS",
+            "locale": "en-US",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Portugal",
+            "market": "PT",
+            "locale": "pt-PT",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.pt"
+        },
+        {
+            "country": "Palau",
+            "market": "PW",
+            "locale": "en-GB",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Paraguay",
+            "market": "PY",
+            "locale": "es-MX",
+            "currencyTitle": "ParaguayanGuarani",
+            "currency": "PYG",
+            "currencySymbol": "Gs",
+            "site": "www.espanol.skyscanner.com"
+        },
+        {
+            "country": "Qatar",
+            "market": "QA",
+            "locale": "en-GB",
+            "currencyTitle": "QatariRial",
+            "currency": "QAR",
+            "currencySymbol": "ر.ق.\u200f",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Reunion",
+            "market": "RE",
+            "locale": "fr-FR",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.fr"
+        },
+        {
+            "country": "Romania",
+            "market": "RO",
+            "locale": "ro-RO",
+            "currencyTitle": "RomanianLeu",
+            "currency": "RON",
+            "currencySymbol": "lei",
+            "site": "www.skyscanner.ro"
+        },
+        {
+            "country": "Serbia",
+            "market": "RS",
+            "locale": "en-GB",
+            "currencyTitle": "SerbianDinar",
+            "currency": "RSD",
+            "currencySymbol": "Дин.",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Russia",
+            "market": "RU",
+            "locale": "ru-RU",
+            "currencyTitle": "RussianRuble",
+            "currency": "RUB",
+            "currencySymbol": "₽",
+            "site": "www.skyscanner.ru"
+        },
+        {
+            "country": "Rwanda",
+            "market": "RW",
+            "locale": "en-GB",
+            "currencyTitle": "RwandanFranc",
+            "currency": "RWF",
+            "currencySymbol": "RWF",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "SaudiArabia",
+            "market": "SA",
+            "locale": "ar-AE",
+            "currencyTitle": "SaudiRiyal",
+            "currency": "SAR",
+            "currencySymbol": "SAR",
+            "site": "www.skyscanner.com.sa"
+        },
+        {
+            "country": "SolomonIslands",
+            "market": "SB",
+            "locale": "en-GB",
+            "currencyTitle": "SolomonIslandsDollar",
+            "currency": "SBD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Seychelles",
+            "market": "SC",
+            "locale": "en-GB",
+            "currencyTitle": "SeychelloisRupee",
+            "currency": "SCR",
+            "currencySymbol": "Rs",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Sudan",
+            "market": "SD",
+            "locale": "en-GB",
+            "currencyTitle": "SudanesePound",
+            "currency": "SDG",
+            "currencySymbol": "ج.س.\u200f",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Sweden",
+            "market": "SE",
+            "locale": "sv-SE",
+            "currencyTitle": "SwedishKrona",
+            "currency": "SEK",
+            "currencySymbol": "SEK",
+            "site": "www.skyscanner.se"
+        },
+        {
+            "country": "Singapore",
+            "market": "SG",
+            "locale": "en-GB",
+            "currencyTitle": "SingaporeDollar",
+            "currency": "SGD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.com.sg"
+        },
+        {
+            "country": "St.Helena",
+            "market": "SH",
+            "locale": "en-GB",
+            "currencyTitle": "St.HelenaPound",
+            "currency": "SHP",
+            "currencySymbol": "£",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Slovenia",
+            "market": "SI",
+            "locale": "en-GB",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Slovakia",
+            "market": "SK",
+            "locale": "en-GB",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "SierraLeone",
+            "market": "SL",
+            "locale": "en-GB",
+            "currencyTitle": "SierraLeoneanLeone",
+            "currency": "SLL",
+            "currencySymbol": "Le",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Senegal",
+            "market": "SN",
+            "locale": "fr-FR",
+            "currencyTitle": "WestAfricanCFAFranc",
+            "currency": "XOF",
+            "currencySymbol": "F",
+            "site": "www.skyscanner.fr"
+        },
+        {
+            "country": "Somalia",
+            "market": "SO",
+            "locale": "en-GB",
+            "currencyTitle": "SomaliShilling",
+            "currency": "SOS",
+            "currencySymbol": "S",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Suriname",
+            "market": "SR",
+            "locale": "en-GB",
+            "currencyTitle": "SurinameseDollar",
+            "currency": "SRD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "SouthSudan",
+            "market": "SS",
+            "locale": "en-GB",
+            "currencyTitle": "SudanesePound",
+            "currency": "SDG",
+            "currencySymbol": "ج.س.\u200f",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "SaoTomeandPrincipe",
+            "market": "ST",
+            "locale": "en-GB",
+            "currencyTitle": "SãoTomé&PríncipeDobra",
+            "currency": "STD",
+            "currencySymbol": "Db",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "ElSalvador",
+            "market": "SV",
+            "locale": "es-MX",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.espanol.skyscanner.com"
+        },
+        {
+            "country": "StMaarten",
+            "market": "SX",
+            "locale": "en-GB",
+            "currencyTitle": "NetherlandsAntilleanGuilder",
+            "currency": "ANG",
+            "currencySymbol": "NAf.",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Syria",
+            "market": "SY",
+            "locale": "en-GB",
+            "currencyTitle": "SyrianPound",
+            "currency": "SYP",
+            "currencySymbol": "ل.س.\u200f",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Eswatini",
+            "market": "SZ",
+            "locale": "en-GB",
+            "currencyTitle": "SwaziLilangeni",
+            "currency": "SZL",
+            "currencySymbol": "E",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "TurksandCaicosIslands",
+            "market": "TC",
+            "locale": "en-GB",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Chad",
+            "market": "TD",
+            "locale": "en-GB",
+            "currencyTitle": "CentralAfricanCFAFranc",
+            "currency": "XAF",
+            "currencySymbol": "F",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Togo",
+            "market": "TG",
+            "locale": "en-GB",
+            "currencyTitle": "WestAfricanCFAFranc",
+            "currency": "XOF",
+            "currencySymbol": "F",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Thailand",
+            "market": "TH",
+            "locale": "th-TH",
+            "currencyTitle": "ThaiBaht",
+            "currency": "THB",
+            "currencySymbol": "฿",
+            "site": "www.skyscanner.co.th"
+        },
+        {
+            "country": "Tajikistan",
+            "market": "TJ",
+            "locale": "en-GB",
+            "currencyTitle": "TajikistaniSomoni",
+            "currency": "TJS",
+            "currencySymbol": "TJS",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "EastTimor",
+            "market": "TL",
+            "locale": "en-GB",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Turkmenistan",
+            "market": "TM",
+            "locale": "en-GB",
+            "currencyTitle": "TurkmenistaniManat",
+            "currency": "TMT",
+            "currencySymbol": "m",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Tunisia",
+            "market": "TN",
+            "locale": "fr-FR",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.fr"
+        },
+        {
+            "country": "Tonga",
+            "market": "TO",
+            "locale": "en-GB",
+            "currencyTitle": "TonganPaʻanga",
+            "currency": "TOP",
+            "currencySymbol": "T$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Turkey",
+            "market": "TR",
+            "locale": "tr-TR",
+            "currencyTitle": "TurkishLira",
+            "currency": "TRY",
+            "currencySymbol": "TL",
+            "site": "www.skyscanner.com.tr"
+        },
+        {
+            "country": "TrinidadandTobago",
+            "market": "TT",
+            "locale": "en-GB",
+            "currencyTitle": "Trinidad&TobagoDollar",
+            "currency": "TTD",
+            "currencySymbol": "TT$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Tuvalu",
+            "market": "TV",
+            "locale": "en-GB",
+            "currencyTitle": "AustralianDollar",
+            "currency": "AUD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Taiwan",
+            "market": "TW",
+            "locale": "zh-TW",
+            "currencyTitle": "NewTaiwanDollar",
+            "currency": "TWD",
+            "currencySymbol": "NT$",
+            "site": "www.skyscanner.com.tw"
+        },
+        {
+            "country": "Tanzania",
+            "market": "TZ",
+            "locale": "en-GB",
+            "currencyTitle": "TanzanianShilling",
+            "currency": "TZS",
+            "currencySymbol": "TSh",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Ukraine",
+            "market": "UA",
+            "locale": "uk-UA",
+            "currencyTitle": "UkrainianHryvnia",
+            "currency": "UAH",
+            "currencySymbol": "грн.",
+            "site": "www.skyscanner.com.ua"
+        },
+        {
+            "country": "Uganda",
+            "market": "UG",
+            "locale": "en-GB",
+            "currencyTitle": "UgandanShilling",
+            "currency": "UGX",
+            "currencySymbol": "USh",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "UnitedKingdom",
+            "market": "UK",
+            "locale": "en-GB",
+            "currencyTitle": "BritishPound",
+            "currency": "GBP",
+            "currencySymbol": "£",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "UnitedStates",
+            "market": "US",
+            "locale": "en-US",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.com"
+        },
+        {
+            "country": "Uruguay",
+            "market": "UY",
+            "locale": "es-MX",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.espanol.skyscanner.com"
+        },
+        {
+            "country": "Uzbekistan",
+            "market": "UZ",
+            "locale": "en-GB",
+            "currencyTitle": "UzbekistaniSom",
+            "currency": "UZS",
+            "currencySymbol": "сўм",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "VaticanCity",
+            "market": "VA",
+            "locale": "it-IT",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "SaintVincentandtheGrenadines",
+            "market": "VC",
+            "locale": "en-GB",
+            "currencyTitle": "EastCaribbeanDollar",
+            "currency": "XCD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Venezuela",
+            "market": "VE",
+            "locale": "es-MX",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.espanol.skyscanner.com"
+        },
+        {
+            "country": "BritishVirginIslands",
+            "market": "VG",
+            "locale": "en-GB",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "USVirginIslands",
+            "market": "VI",
+            "locale": "en-GB",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Vietnam",
+            "market": "VN",
+            "locale": "vi-VN",
+            "currencyTitle": "VietnameseDong",
+            "currency": "VND",
+            "currencySymbol": "₫",
+            "site": "www.skyscanner.com.vn"
+        },
+        {
+            "country": "Vanuatu",
+            "market": "VU",
+            "locale": "en-GB",
+            "currencyTitle": "VanuatuVatu",
+            "currency": "VUV",
+            "currencySymbol": "VT",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "WallisandFutunaIslands",
+            "market": "WF",
+            "locale": "en-GB",
+            "currencyTitle": "CFPFranc",
+            "currency": "XPF",
+            "currencySymbol": "F",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Samoa",
+            "market": "WS",
+            "locale": "en-GB",
+            "currencyTitle": "SamoanTala",
+            "currency": "WST",
+            "currencySymbol": "WS$",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Yemen",
+            "market": "YE",
+            "locale": "en-GB",
+            "currencyTitle": "YemeniRial",
+            "currency": "YER",
+            "currencySymbol": "ر.ي.\u200f",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Mayotte",
+            "market": "YT",
+            "locale": "en-GB",
+            "currencyTitle": "Euro",
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "SouthAfrica",
+            "market": "ZA",
+            "locale": "en-GB",
+            "currencyTitle": "SouthAfricanRand",
+            "currency": "ZAR",
+            "currencySymbol": "R",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Zambia",
+            "market": "ZM",
+            "locale": "en-GB",
+            "currencyTitle": "ZambianKwacha",
+            "currency": "ZMW",
+            "currencySymbol": "ZK",
+            "site": "www.skyscanner.net"
+        },
+        {
+            "country": "Zimbabwe",
+            "market": "ZW",
+            "locale": "en-GB",
+            "currencyTitle": "USDollar",
+            "currency": "USD",
+            "currencySymbol": "$",
+            "site": "www.skyscanner.net"
+        }
+    ],
+    "status": "True",
+    "message": "Successful"
+}

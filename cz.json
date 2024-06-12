@@ -1,0 +1,6 @@
+{
+    "data": null,
+    "errors": "ids for this class must be manually assigned before calling save(): rapidapi.apis.skyscanner_com.entity.SkyscannerComConfigEntity; nested exception is org.hibernate.id.IdentifierGenerationException: ids for this class must be manually assigned before calling save(): rapidapi.apis.skyscanner_com.entity.SkyscannerComConfigEntity",
+    "status": false,
+    "message": "Errors"
+}
